@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "development",
+      "database": "\\\\wsl$\\Ubuntu-20.04\\home\\nurbs999\\sample_app\\db\\development.sqlite3"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
